@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openstack = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "PERU AL MUNDIAL 3000",
+"autor" => "JORGE BENAVIDES",
+"resumen" => "DESPUES DE LARGOS AÑOS DE ESPERA PODEMOS GRITAR UN GOL DE LA SELECCION",
 ];
 ?>
