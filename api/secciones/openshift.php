@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $openshift = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "VALERIO ARREGLO EL BUG DE GLOUD APP DEPLOY",
+"autor" => "JHON CENA",
+"resumen" => "UNA REINICIADA FUE SUFICIENTE",
 ];
 ?>
