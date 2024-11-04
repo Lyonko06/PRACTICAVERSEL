@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $opinion = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "MAGALY TV LA FIRME ",
+"autor" => "URACA",
+"resumen" => "FULL CHISME PERUANO",
 ];
 ?>
