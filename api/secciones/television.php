@@ -4,8 +4,8 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
 $television = [
-"titulo" => "XXX",
-"autor" => "XXX",
-"resumen" => "XXX",
+"titulo" => "CUARTO PODER: ENCUENTRA A 4 CHAMOS BALEADOS POR COLOCHOS",
+"autor" => "PERIODISTA",
+"resumen" => "TODO ESTO SUCEDIO LA NOCHE DEL JALOWIN DEL 2024",
 ];
 ?>
